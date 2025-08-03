@@ -4,3 +4,7 @@
 2025-08-03 22:19:22,Bazam Ibrahim,4,The model did well to detect the food and suggested valid restaurants
 2025-08-03 22:21:23,Sharon,5,It detected the tacos and suggested restaurants i can actually find near me in Dublin
 2025-08-03 22:22:35,Itunu,4,The detection was quick and i like the spots recommended as i actually know them
+2025-08-03 22:27:52,Mukta,1,I provided a picture of waffles but it gave me recommendations of restaurants that serve Tacos and Curry...
+2025-08-03 22:41:22,Neil,4,I was searching for places with plain salted fries, got loaded fries' recommendations instead and one of the recommendations was not even related..
+2025-08-03 22:51:29,Walden,5,I finally received some recommendations beyond just McDonald's or Burger King.
+2025-08-03 22:58:46,Michael ,5,Found some good restaurants here
