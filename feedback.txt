@@ -1,3 +1,6 @@
 2025-08-03 12:47:53,Sunil,5,Detected fries with all restaurant names, ratings, address of restaurant and the dish name+price
 2025-08-03 16:25:58,Shridhar,4,Nice but takes few seconds to detect and load.
 2025-08-03 16:44:03,Bazam Ishaku,3,detected fries successfully but classified with waffles which is not in the image. With higher accuracy this is actually promising 
+2025-08-03 22:19:22,Bazam Ibrahim,4,The model did well to detect the food and suggested valid restaurants
+2025-08-03 22:21:23,Sharon,5,It detected the tacos and suggested restaurants i can actually find near me in Dublin
+2025-08-03 22:22:35,Itunu,4,The detection was quick and i like the spots recommended as i actually know them
