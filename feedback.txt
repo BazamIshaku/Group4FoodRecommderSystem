@@ -8,3 +8,4 @@
 2025-08-03 22:41:22,Neil,4,I was searching for places with plain salted fries, got loaded fries' recommendations instead and one of the recommendations was not even related..
 2025-08-03 22:51:29,Walden,5,I finally received some recommendations beyond just McDonald's or Burger King.
 2025-08-03 22:58:46,Michael ,5,Found some good restaurants here
+2025-08-06 10:58:46,Sakthi,5,Filters can be added to sort by location, price and ratings
