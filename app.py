@@ -160,21 +160,13 @@ def detect():
         image_bytes = base64.b64decode(base64_string)
         image = Image.open(io.BytesIO(image_bytes))
 
-        # TODO: Integrate your YOLO detection code here
-        # Run your YOLO model on the 'image' variable (PIL Image object)
-        # The YOLO model should return a list of detected object class names (strings)
-        # Example:
-        # results = yolo_model(image)
-        # detected_items = [box.cls for box in results.xyxy[0]] # Adjust based on your YOLO output format
-
+        
         # Example using the provided YOLO model object:
         results = yolo_model(image)
         detected_items = []
         for r in results:
             for c in r.boxes.cls:
                 detected_items.append(yolo_model.names[int(c)])
-
-        # detected_items = ['burger', 'fries']  # TEMP: Mock for now - REMOVE THIS LINE
 
         recommendations = recommender.get_recommendations(detected_items=detected_items)
 
